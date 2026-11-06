@@ -36,8 +36,8 @@ A terminal-based Python SDK application that simulates a court-style debate betw
 
 ```bash
 # Clone the repository
-git clone https://github.com/yosefshanaa/HW2.git
-cd HW2
+git clone https://github.com/yosefshanaa/ai-debate-court.git
+cd ai-debate-court
 
 # Install dependencies (UV handles everything)
 uv sync
